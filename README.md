@@ -1,21 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Fachri+Pahlevi;Fullstack+Developer;Backend+%26+API+Development;System+Integration+%26+Data+Migration;Industrial+Software+Integration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Nurfachrial+Isnan+Pahlevi;Fullstack+Developer;ERP+%26+Business+Systems;Backend+%26+Database+Development;Building+End-to-End+Digital+Solutions" alt="Typing SVG" />
 
 <br/>
 
-### Building reliable software — from production web applications to industrial systems.
+### Building reliable software from business requirements to production-ready applications.
 
 <br/>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/nurfachrialisnanpahlevi">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nurfachrialisnan@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/FachriPahlevi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,55 +22,67 @@
 
 <br/>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Fullstack Developer** working across two different but connected domains: **production web applications** and **industrial software systems**.
+I'm a **Fullstack Developer** with experience building production web applications, business systems, ERP solutions, mobile applications, backend services, and database-driven workflows.
 
-On the web development side, I build and maintain applications across the full stack — from frontend interfaces and reusable components to backend services, REST APIs, databases, and business logic.
+My experience covers more than just writing frontend and backend code. I've worked with **ERP implementation, legacy data mapping, database logic, REST APIs, payment integrations, SEO, system migration, business process analysis, and production troubleshooting**.
 
-On the industrial side, I work with **system integration, database migration, manufacturing data, DMO, recipe management, and PLC-related systems**. This gives me experience beyond conventional web development and helps me understand how software interacts with operational and production environments.
+I've also worked directly with business, accounting, operational, and technical teams — translating real-world requirements into application logic and system workflows.
 
-I like understanding systems **end-to-end** — not only whether the interface works, but also how data flows, how services communicate, how databases are structured, and where integration problems may occur.
+What interests me most is understanding the **whole system**:
+
+> How users interact with the application, how business rules are translated into code, how data moves between systems, and how everything behaves in production.
 
 <br/>
 
 <div align="center">
 
-|                            |                                                                            |
-| -------------------------- | -------------------------------------------------------------------------- |
-| 🎯 **Role**                | Fullstack Developer                                                        |
-| 🧩 **Focus**               | Web Applications · Backend Systems · APIs · Databases · System Integration |
-| 🏭 **Industrial Exposure** | DMO · Data Migration · Recipe Management · PLC-related Integration         |
-| 🧠 **Approach**            | Understand the whole system, not just the interface                        |
-| 🏢 **Currently**           | PT Agatos Multi Solusi · PT Guide Santai Service                           |
-| 📍 **Location**            | Surabaya, Indonesia                                                                  |
-| 🗣️ **Languages**          | Indonesian · English                                                       |
+|                              |                                            |
+| ---------------------------- | ------------------------------------------ |
+| 🎯 **Primary Role**          | Fullstack Developer                        |
+| 💻 **Development**           | Web · Backend · Mobile · REST API          |
+| 🏢 **Business Systems**      | ERP · CRM · POS · Inventory · Finance      |
+| 🗄️ **Data**                 | PostgreSQL · MySQL · SQL · Data Mapping    |
+| 🔗 **Integration**           | APIs · ERP Migration · Payment Integration |
+| 📈 **Additional Experience** | SEO · Performance Optimization · Analytics |
+| 📍 **Location**              | Surabaya, East Java, Indonesia             |
+| 🎓 **Education**             | Bachelor of Information Systems            |
+| 🗣️ **Languages**            | Indonesian · English                       |
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Web Development
+### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,flutter" />
 
-### Data & Backend
+### Backend
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,python,postman" />
+<img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,php" />
 
-### Tools & Environment
+### Database & Data
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 
-### Industrial & System Integration
+### Dev Tools & Environment
 
-`DMO` `SQL Server` `PLC Integration` `HMI` `Recipe Management` `Data Migration` `System Integration`
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+
+### ERP & Business Systems
+
+`Odoo` · `Oracle NetSuite` · `Adempiere` · `ERP Implementation` · `CRM` · `POS` · `Inventory`
+
+### Other Areas
+
+`REST API` · `CI/CD` · `SEO` · `Google Analytics` · `Data Mapping` · `Database Migration`
 
 <br/>
 
-## 💡 What I Do
+# 💡 What I Do
 
 <table>
 
@@ -83,15 +92,15 @@ I like understanding systems **end-to-end** — not only whether the interface w
 
 ### 🌐 Fullstack Development
 
-Building and maintaining production web applications across the frontend and backend.
+Building applications across frontend, backend, API, and database layers.
 
-* React / Next.js
+* React / Next.js / Vue.js
 * TypeScript / JavaScript
-* NestJS / Node.js
-* REST APIs
-* Responsive interfaces
-* Reusable components
-* Feature development & maintenance
+* Laravel / NestJS
+* REST API
+* Responsive UI
+* Business logic
+* Application maintenance
 
 </td>
 
@@ -99,15 +108,15 @@ Building and maintaining production web applications across the frontend and bac
 
 ### 🗄️ Backend & Database
 
-Working with application logic, data models, APIs, and relational databases.
+Developing backend logic and database-driven workflows for operational systems.
 
-* PostgreSQL
-* Supabase
-* SQL Server
-* Database design
-* Querying & data validation
-* API integration
-* Business logic implementation
+* PostgreSQL / MySQL
+* SQL
+* Stored Procedures
+* Database Triggers
+* Data validation
+* Query optimization
+* Transactional workflows
 
 </td>
 
@@ -117,31 +126,66 @@ Working with application logic, data models, APIs, and relational databases.
 
 <td width="50%" valign="top">
 
-### 🔗 System Integration
+### 🏢 ERP & Business Systems
 
-Connecting applications, databases, and external systems while maintaining reliable data flow.
+Working with applications that support real operational business processes.
 
-* Data mapping
-* Data transformation
-* Database migration
-* Legacy system analysis
-* Data validation
-* Integration troubleshooting
+* Finance & Accounting
+* Purchasing
+* Sales
+* Inventory
+* CRM
+* POS
+* ERP workflow validation
+* ERP implementation support
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏭 Industrial Software
+### 🔗 Integration & Migration
 
-Working with software and data used in manufacturing environments.
+Connecting business requirements, applications, databases, and external systems.
 
-* DMO
-* Recipe Management
-* Production data
-* PLC-related integration
-* HMI-related systems
-* Industrial database migration
+* REST API integration
+* Legacy data mapping
+* Data migration
+* Payment integration
+* ERP migration
+* Workflow validation
+* System troubleshooting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+
+Developing mobile applications integrated with backend services.
+
+* Flutter
+* REST APIs
+* Laravel backend
+* PostgreSQL
+* Mobile business workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Web Performance & SEO
+
+Improving application visibility, performance, and user experience.
+
+* On-Page SEO
+* Off-Page SEO
+* Lighthouse optimization
+* Google Analytics
+* Web performance
 
 </td>
 
@@ -151,17 +195,19 @@ Working with software and data used in manufacturing environments.
 
 <br/>
 
-## ✨ What I Bring
+# ✨ What I Bring
 
-* **End-to-end development perspective** — I work across frontend, backend, APIs, databases, and integration layers rather than focusing on only one part of an application.
+* **End-to-end development experience** — from UI and APIs to database logic and production troubleshooting.
 
-* **Web and industrial system exposure** — my experience spans both production web applications and manufacturing-related software environments.
+* **Business-oriented development** — experience translating finance, accounting, purchasing, sales, inventory, and operational requirements into software.
 
-* **Comfort working with existing systems** — I regularly work with legacy databases, existing application flows, migration requirements, and systems that need to remain compatible with current operations.
+* **ERP exposure** — hands-on experience with ERP implementation, ERP customization, workflow validation, and legacy data migration.
 
-* **Strong focus on data accuracy** — especially in migration and integration work, I pay close attention to mapping, validation, and consistency between source and target systems.
+* **Strong database awareness** — experience working with relational databases, SQL logic, stored procedures, triggers, validation, and query optimization.
 
-* **Maintainability mindset** — I value reusable components, readable code, clear application flows, and solutions that are easier to maintain over time.
+* **Cross-functional collaboration** — comfortable working with business users, accounting teams, developers, vendors, and operational stakeholders.
+
+* **Production mindset** — focused not only on making features work, but also on maintainability, consistency, performance, and sustainable fixes.
 
 <br/>
 
@@ -169,65 +215,182 @@ Working with software and data used in manufacturing environments.
 
 ## 🚢 KapalSantai — Travel & Booking Platform
 
-A production fullstack platform used to manage travel products, schedules, guests, bookings, pricing, and operational workflows.
+Production travel platform for managing bookings, payments, ship schedules, guests, pricing, vouchers, and refund workflows.
 
-**Core Stack**
+**Stack**
 
-`Next.js` `React` `TypeScript` `NestJS` `PostgreSQL` `Supabase`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `NestJS` `PostgreSQL`
 
-**What I Work On**
+**Responsibilities**
 
-* Frontend development
-* Backend development
-* REST API implementation
-* Database integration
-* Feature development
-* Form & guest workflows
+* Frontend feature development
+* Backend API integration
+* Booking & payment workflows
+* Refund & voucher features
+* Component consistency
+* SEO & Lighthouse optimization
 * Bug fixing
 * Refactoring
-* Code reusability & maintainability
 
 ---
 
-## 🏭 DMO / Industrial System Integration
+## 🏢 Enterprise Production System
 
-Industrial software and migration work involving existing manufacturing systems and **DMO environments**.
+Backend and database-heavy production system involving operational workflows and core business logic.
 
-**Areas Involved**
+**Areas**
 
-`SQL Server` `DMO` `PLC Integration` `HMI` `Recipe Management` `Data Migration` `Data Validation`
+`SQL` `Stored Procedures` `Triggers` `Database Logic` `Transactional Processing`
 
-**What I Work On**
+**Responsibilities**
 
-* Legacy database analysis
-* Data mapping between existing and target systems
-* Data migration preparation
-* Recipe and production data analysis
+* Develop database-level business logic
+* Design data structures and operational flows
+* Maintain transactional integrity
+* Optimize queries and data processing
+* Perform root cause analysis
+* Resolve production issues
+* Support engineering consistency within the team
+
+---
+
+## 🧾 ERP Implementation & Migration
+
+ERP implementation support covering operational and financial business processes.
+
+**Modules**
+
+`Finance` `Accounting` `Purchasing` `Sales`
+
+**Responsibilities**
+
+* Legacy data mapping
 * Data validation
-* System integration analysis
-* Troubleshooting migration inconsistencies
-
-> Due to confidentiality requirements, production source code, client-specific architecture, and implementation details are not publicly available.
+* ERP template preparation
+* Business workflow validation
+* Internal tax-rule alignment
+* Configuration verification
+* Vendor/team coordination
 
 ---
 
-## 🤖 AI-Assisted Trading Platform
+## 📱 Agricultural & Drone Rental Mobile App
 
-A personal R&D project exploring how AI-assisted analysis can be combined with market data and trading application workflows.
+Mobile application for drone rental services and agricultural product sales.
 
-**Areas Explored**
+**Stack**
 
-`Python` `Backend API` `Market Data` `AI Integration` `Automation`
+`Flutter` `Laravel` `REST API` `PostgreSQL`
+
+**Responsibilities**
+
+* Mobile application development
+* Backend REST API development
+* Database integration
+* Application workflow implementation
+
+---
+
+## 🧩 Custom ERP Application
+
+Custom ERP application covering multiple business modules.
+
+**Modules**
+
+`Sales` `POS` `Inventory` `CRM`
+
+**Stack**
+
+`Laravel` `PHP` `Database`
+
+**Responsibilities**
+
+* ERP feature development
+* Backend business logic
+* Workflow implementation
+* Requirement discussion with business and accounting users
+
+---
+
+## 🎓 UISICORE Platform
+
+Academic platform designed for consultation, research, and academy-related activities at Universitas Internasional Semen Indonesia.
+
+**Stack**
+
+`Laravel` `React.js` `MySQL`
+
+**Role**
+
+Design and fullstack development.
+
+---
+
+## 📊 Sales Promotion Monitoring System
+
+Business application developed for sales monitoring and transaction management.
+
+**Stack**
+
+`Laravel` `React.js` `MySQL`
+
+**Features**
+
+* Sales transactions
+* Customer management
+* Sales representative management
+* Store management
+* User management
+* Transaction approval
+* Data validation
+* Near real-time analytics dashboard
+
+---
+
+## ⚖️ Digital Queue System
+
+Real-time digital queue system developed for **Pelaihari District Court**.
+
+**Stack**
+
+`Laravel` `React.js`
 
 **Focus**
 
-* AI-assisted market analysis
-* Backend integration
-* Trading workflow experimentation
-* Market data processing
-* Automation research
+Real-time queue workflow and operational usability.
 
-> This is a personal research and development project.
+---
+
+## 🏫 School Management Application
+
+Application developed for **Yayasan As-Syafiiyah**.
+
+**Features**
+
+* Student enrollment
+* Financial management
+* Online payment integration
+
+**Integration**
+
+`Midtrans`
+
+---
+
+## 🌐 Corporate & Recruitment Websites
+
+Developed several websites and digital platforms for organizations and companies.
+
+Projects include:
+
+* PT Cahaya Utama recruitment platform
+* PT Cahaya Utama company profile
+* PT Steven Cahaya Suksesindo company profile
+* Nasibungkusku landing page
+
+Areas involved:
+
+`Laravel` · `React.js` · `SEO` · `Performance Optimization`
 
 <br/>
 
@@ -239,7 +402,7 @@ A personal R&D project exploring how AI-assisted analysis can be combined with m
 
 <td width="30%" valign="top">
 
-### IT Developer
+### Fullstack Developer
 
 **PT Agatos Multi Solusi**
 
@@ -249,14 +412,13 @@ A personal R&D project exploring how AI-assisted analysis can be combined with m
 
 <td width="70%" valign="top">
 
-* Work on industrial software and system integration projects
-* Analyze and prepare data for migration between existing and target systems
-* Work with SQL Server and manufacturing-related datasets
-* Handle recipe, ingredient, production, and process-related data
-* Perform data mapping and migration validation
-* Support DMO-related implementation and integration activities
-* Work with systems involving PLC and HMI environments
-* Troubleshoot inconsistencies between legacy and target systems
+* Develop core business logic using SQL Stored Procedures and Triggers
+* Design data structures based on operational processes
+* Maintain transactional control and data integrity
+* Optimize database queries and processing
+* Handle production issues through root cause analysis
+* Implement sustainable fixes
+* Coordinate technical execution and engineering consistency
 
 </td>
 
@@ -276,19 +438,184 @@ A personal R&D project exploring how AI-assisted analysis can be combined with m
 
 <td width="70%" valign="top">
 
-* Develop and maintain production web application features
-* Work across frontend, backend, REST API, and database layers
-* Build reusable and maintainable application components
-* Implement business requirements into application features
-* Handle bug fixing, testing, and refactoring
-* Improve existing application flows and code quality
-* Work with Next.js, React, TypeScript, NestJS, PostgreSQL, and Supabase
+* Develop a production travel and booking platform
+* Build interfaces using Next.js and TypeScript
+* Integrate NestJS and PostgreSQL APIs
+* Develop booking, payment, voucher, and refund workflows
+* Maintain component consistency
+* Improve SEO and Lighthouse performance
+* Work within sprint-based release cycles
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="30%" valign="top">
+
+### IT ERP Project Support
+
+**PT Sinergi Mitra Investama**
+
+<sub>Aug 2025 — Nov 2025</sub>
+
+</td>
+
+<td width="70%" valign="top">
+
+* Supported Finance, Accounting, Purchasing, and Sales modules
+* Performed legacy-to-ERP data mapping
+* Validated ERP migration data
+* Verified workflow alignment with system configuration
+* Supported compliance with internal tax requirements
+* Coordinated findings with the implementation team and vendor
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="30%" valign="top">
+
+### Fullstack Developer Intern
+
+**PT Petrokimia Gresik**
+
+<sub>Jul 2025 — Sep 2025</sub>
+
+</td>
+
+<td width="70%" valign="top">
+
+* Developed a Flutter mobile application
+* Built Laravel REST APIs
+* Integrated PostgreSQL databases
+* Worked on drone rental and agricultural product workflows
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="30%" valign="top">
+
+### Fullstack Developer Intern
+
+**PT Konsultan Indonesia Cemerlang**
+
+<sub>Jul 2025 — Sep 2025</sub>
+
+</td>
+
+<td width="70%" valign="top">
+
+* Developed custom ERP functionality using Laravel
+* Worked on Sales, POS, Inventory, and CRM modules
+* Collaborated with business and accounting users
+* Translated operational requirements into application rules
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="30%" valign="top">
+
+### Fullstack Developer
+
+**Blimbing Digital**
+
+<sub>Feb 2024 — Oct 2025</sub>
+
+</td>
+
+<td width="70%" valign="top">
+
+* Developed corporate and business applications
+* Worked with Laravel and React.js
+* Managed website redesign projects
+* Implemented SEO and performance improvements
+* Developed finance, student enrollment, and recruitment systems
+* Integrated Midtrans payment services
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="30%" valign="top">
+
+### Freelance Fullstack Developer
+
+**Remote**
+
+<sub>Feb 2025 — Mar 2025</sub>
+
+</td>
+
+<td width="70%" valign="top">
+
+* Developed corporate websites
+* Built a real-time digital queue system
+* Developed SEO-focused landing pages
+* Delivered independent client projects from implementation to launch
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="30%" valign="top">
+
+### Fullstack Developer Intern
+
+**PT Sinergi Mitra Investama**
+
+<sub>Nov 2024 — Jan 2025</sub>
+
+</td>
+
+<td width="70%" valign="top">
+
+* Developed internal applications using Laravel and React.js
+* Supported early ERP implementation
+* Assisted with knowledge transfer and functional training
 
 </td>
 
 </tr>
 
 </table>
+
+<br/>
+
+# 🎓 Education
+
+### Bachelor of Information Systems
+
+**Universitas Internasional Semen Indonesia**
+
+`2021 — 2025`
+
+**GPA:** `3.38 / 4.00`
+
+Relevant coursework:
+
+`Web & Mobile Programming` · `ERP` · `Database Management` · `Cloud Computing` · `Machine Learning` · `Data Mining` · `IT Project Management` · `IT Audit` · `Risk Management`
+
+<br/>
+
+# 📜 Certifications
+
+* 🇬🇧 **IELTS** — British Council, 2025
+* ☁️ **Oracle Cloud Computing** — 2025
+* 🎤 **Public Speaking** — 2022
 
 <br/>
 
@@ -343,23 +670,25 @@ A personal R&D project exploring how AI-assisted analysis can be combined with m
 
 # 📚 Currently Improving
 
-`Software Architecture` · `Clean Code` · `Backend System Design` · `Database Optimization` · `System Integration` · `Industrial Software` · `English Communication`
+`Software Architecture` · `Clean Code` · `Backend System Design` · `Database Optimization` · `ERP Systems` · `System Integration` · `Cloud & DevOps` · `English Communication`
 
 <br/>
 
 # 🤝 Let's Connect
 
-I'm always interested in discussing **fullstack development, backend systems, databases, system integration, and industrial software projects**.
+I'm interested in discussing:
 
-Feel free to reach out if you'd like to collaborate, exchange ideas, or discuss an interesting technical challenge.
+**Fullstack Development · Backend Systems · ERP · Databases · Business Applications · System Integration**
+
+If you're working on an interesting product, business system, or technical challenge, feel free to reach out.
 
 <br/>
 
 <div align="center">
 
-### Build · Integrate · Improve
+### Build · Understand · Integrate · Improve
 
-<sub>Turning requirements, data, and systems into reliable software.</sub>
+<sub>Turning business requirements, data, and workflows into reliable software.</sub>
 
 <br/><br/>
 
