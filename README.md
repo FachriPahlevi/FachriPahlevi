@@ -25,14 +25,20 @@ Di sisi web, saya membangun dan merawat aplikasi dari frontend, backend, API, sa
 
 Yang saya cari dalam setiap proyek bukan sekadar "UI-nya jalan", tapi memahami keseluruhan alurnya: bagaimana data mengalir, bagaimana sistem-sistem itu saling bicara, dan di mana letak titik rawannya.
 
-```typescript
-const fachri = {
-  role: "Fullstack Developer",
-  focus: ["Web Applications", "Backend Systems", "Data Migration", "Industrial Integration"],
-  approach: "understand the whole flow, not just the interface",
-  currently: "PT Agatos Multi Solusi & PT Guide Santai Service",
-};
-```
+<br/>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎯 **Peran** | Fullstack Developer |
+| 🧩 **Fokus** | Web Applications · Backend Systems · Data Migration · Industrial Integration |
+| 🧠 **Pendekatan** | Understand the whole flow, not just the interface |
+| 🏢 **Saat ini** | PT Agatos Multi Solusi & PT Guide Santai Service |
+| 📍 **Lokasi** | YOUR_LOCATION |
+| 🗣️ **Bahasa** | Bahasa Indonesia, English |
+
+</div>
 
 <br/>
 
@@ -103,6 +109,15 @@ Software dan data di lingkungan manufaktur.
 
 <br/>
 
+## Kenapa Kerja Sama Dengan Saya
+
+- **Jarang ditemui dalam satu orang** — combo web development dan integrasi sistem industri, jadi saya bisa jadi jembatan antara tim software dan tim OT/manufaktur.
+- **Terbiasa dengan sistem legacy** — nyaman membaca database lama, dokumentasi minim, dan proses bisnis yang belum terstruktur rapi.
+- **End-to-end ownership** — dari desain skema database, API, sampai UI, saya bisa pegang sendiri atau kolaborasi lintas tim tanpa banyak friksi.
+- **Detail-oriented pada data** — di lingkungan industri, satu baris data yang salah bisa berdampak ke lini produksi, jadi validasi dan akurasi jadi prioritas.
+
+<br/>
+
 ## Proyek Pilihan
 
 ### 🚢 KapalSantai — Travel & Booking Platform
@@ -110,7 +125,7 @@ Aplikasi fullstack produksi untuk mengelola produk travel, jadwal, tamu, booking
 
 `Next.js` `React` `TypeScript` `NestJS` `PostgreSQL` `Supabase`
 
-Peran: frontend, backend, REST API, database, feature development, bug fixing, refactoring.
+**Peran:** frontend, backend, REST API, database, feature development, bug fixing, refactoring.
 
 ---
 
@@ -118,6 +133,8 @@ Peran: frontend, backend, REST API, database, feature development, bug fixing, r
 Proyek software industri yang mencakup migrasi dan integrasi antara sistem manufaktur legacy dengan lingkungan DMO.
 
 `SQL Server` `PLC` `HMI` `Data Migration` `Validation`
+
+**Peran:** analisis database, data mapping, migrasi data, validasi recipe & production data.
 
 > Karena alasan kerahasiaan, detail implementasi dan source code produksi tidak dipublikasikan.
 
@@ -128,14 +145,49 @@ Proyek personal yang mengeksplorasi integrasi AI ke dalam analisis data pasar da
 
 `Python` `Backend API` `Market Data` `AI Integration` `Automation`
 
+**Peran:** riset & pengembangan mandiri (personal project).
+
 <br/>
 
 ## Pengalaman Profesional
 
-| Peran | Perusahaan | Periode |
-|---|---|---|
-| IT Developer | PT Agatos Multi Solusi | Jan 2026 — Sekarang |
-| Fullstack Developer | PT Guide Santai Service | Agu 2025 — Sekarang |
+<table>
+<tr>
+<td width="30%" valign="top"><b>IT Developer</b><br/>PT Agatos Multi Solusi<br/><sub>Jan 2026 — Sekarang</sub></td>
+<td width="70%" valign="top">
+
+- Menangani proyek software industri, termasuk migrasi database dan validasi data produksi
+- Terlibat dalam integrasi sistem terkait DMO dan lingkungan manufaktur
+- Bekerja dengan data recipe dan production data di sistem legacy
+
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top"><b>Fullstack Developer</b><br/>PT Guide Santai Service<br/><sub>Agu 2025 — Sekarang</sub></td>
+<td width="70%" valign="top">
+
+- Mengembangkan dan merawat aplikasi web produksi (KapalSantai)
+- Bertanggung jawab lintas layer: frontend, backend, API, dan database
+- Feature development, bug fixing, dan refactoring berkelanjutan
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true" />
+
+</div>
 
 <br/>
 
@@ -158,6 +210,12 @@ Proyek personal yang mengeksplorasi integrasi AI ke dalam analisis data pasar da
 ## Sedang Dipelajari
 
 Software architecture · Clean code · Backend system design · Database optimization · System integration · English for international collaboration
+
+<br/>
+
+## Mari Terhubung
+
+Terbuka untuk diskusi seputar **web development, integrasi sistem, atau kolaborasi proyek industri**. Jangan ragu untuk reach out lewat LinkedIn atau email di atas.
 
 <br/>
 
