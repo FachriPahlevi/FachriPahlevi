@@ -1,14 +1,26 @@
-# Hi there, I'm Fachri! 👋
-
 <div align="center">
 
-  <a href="https://github.com/FachriPahlevi">
-    <img src="https://img.shields.io/github/followers/FachriPahlevi?style=social" alt="GitHub Followers"/>
-  </a>
+# Hi, I'm Fachri 👋
 
-<br/><br/>
+### Fullstack Developer
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Web+Application+Developer;System+Integration+%26+Data+Migration;Building+Reliable+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Production+Web+Applications;Backend+%26+Database+Development;System+Integration+%26+Data+Migration;Industrial+Software+Integration" />
+
+<br/>
+
+Building reliable software across **web applications, backend systems, databases, and industrial integrations**.
+
+<br/>
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="YOUR_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
@@ -18,444 +30,233 @@
 
 ```typescript
 const fachri = {
-    role: "Fullstack Developer",
-    location: "Indonesia",
+  role: "Fullstack Developer",
 
-    stack: {
-        frontend: [
-            "React.js",
-            "Next.js",
-            "Vue.js",
-            "TypeScript",
-            "JavaScript"
-        ],
+  currentlyWorkingOn: [
+    "Production Web Applications",
+    "System Integration",
+    "Database & Data Migration",
+    "Industrial Software"
+  ],
 
-        backend: [
-            "NestJS",
-            "Laravel",
-            "Node.js",
-            "REST API"
-        ],
+  interests: [
+    "Backend Architecture",
+    "Clean & Reusable Code",
+    "Database Systems",
+    "System Integration",
+    "AI-assisted Applications"
+  ],
 
-        database: [
-            "PostgreSQL",
-            "MySQL",
-            "SQL Server",
-            "Supabase"
-        ],
-
-        mobile: [
-            "Flutter"
-        ],
-
-        tools: [
-            "Git",
-            "GitHub",
-            "Docker",
-            "CI/CD",
-            "Postman",
-            "Linux"
-        ]
-    },
-
-    industrial: [
-        "System Integration",
-        "Database Migration",
-        "DMO",
-        "PLC Integration",
-        "HMI",
-        "Industrial Data"
-    ],
-
-    focus: [
-        "Fullstack Web Development",
-        "Backend & API Development",
-        "Database Systems",
-        "System Integration",
-        "Data Migration"
-    ],
-
-    currentGoal:
-        "Building reliable, scalable, and maintainable software solutions"
+  mindset: "Build systems that are reliable, maintainable, and useful."
 };
 ```
 
-I'm a **Fullstack Developer** with experience building and maintaining web applications, backend services, databases, REST APIs, and system integrations.
+I'm a **Fullstack Developer** experienced in developing and maintaining production web applications from frontend interfaces to backend services and databases.
 
-My experience spans both **modern web application development** and **industrial software projects**, allowing me to work across application layers — from user interfaces and APIs to databases, integrations, and data migration.
+Besides conventional web development, I also work with **system integration and industrial software environments**, including database migration, manufacturing data, DMO, PLC-related integration, and legacy system migration.
 
-I enjoy solving real-world problems through clean, reusable, and maintainable software.
+I enjoy understanding how a system works end-to-end — not only making the UI work, but also understanding the **API, database, business process, data flow, and integration behind it**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Web Development
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs&perline=9" />
+</div>
+
+### Database & Backend Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,python,postman&perline=8" />
+</div>
+
+### Development Environment
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&perline=8" />
+</div>
+
+### Industrial & Integration
+
+`DMO` · `PLC Integration` · `HMI` · `SQL Server` · `Recipe Management` · `Data Migration` · `System Integration`
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Fullstack Development
+
+Building production web applications from frontend interfaces to backend services.
+
+* React / Next.js
+* TypeScript
+* NestJS / Node.js
+* REST API
+* Responsive UI
+* Reusable components
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Backend & Database
+
+Designing application logic and managing data across multiple systems.
+
+* PostgreSQL
+* Supabase
+* SQL Server
+* Data modeling
+* Querying & validation
+* API integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 System Integration
+
+Connecting applications, databases, and external systems while maintaining data consistency.
+
+* API integration
+* Data mapping
+* Data transformation
+* Legacy migration
+* Validation & troubleshooting
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏭 Industrial Software
+
+Working with software and data in manufacturing environments.
+
+* DMO
+* Recipe Management
+* PLC-related integration
+* HMI
+* Production data
+* Industrial database migration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Selected Work
+
+### 🚢 KapalSantai — Travel & Booking Platform
+
+Production fullstack application for managing travel products, schedules, guests, bookings, pricing, and operational workflows.
+
+**What I work on**
+
+`Frontend Development` · `Backend Development` · `REST API` · `Database` · `Feature Development` · `Bug Fixing` · `Refactoring`
+
+**Core Stack**
+
+`Next.js` · `React` · `TypeScript` · `NestJS` · `PostgreSQL` · `Supabase`
+
+---
+
+### 🏭 DMO / Industrial System Integration
+
+Industrial software project involving migration and integration between legacy manufacturing systems and DMO environments.
+
+**Areas involved**
+
+`Database Analysis` · `Data Mapping` · `Data Migration` · `Recipe Data` · `Production Data` · `Validation` · `PLC Integration`
+
+**Technology & Environment**
+
+`DMO` · `SQL Server` · `PLC` · `HMI` · `Industrial Systems`
+
+> Due to confidentiality, implementation details and production source code are not publicly available.
+
+---
+
+### 🤖 AI-Assisted Trading Platform
+
+Personal development project exploring how AI can be integrated into market-data analysis and automated application workflows.
+
+**Areas explored**
+
+`Python` · `Backend API` · `Market Data` · `AI Integration` · `Automation`
 
 ---
 
 ## 💼 Professional Experience
 
-### 💻 Fullstack Developer | **PT Guide Santai Service**
+### IT Developer — PT Agatos Multi Solusi
 
-**August 2025 - Present**
+`Jan 2026 — Present`
 
-* Develop and maintain end-to-end web application features
-* Build responsive and reusable frontend components
-* Develop backend services and REST APIs
-* Work with relational databases and application data models
-* Handle feature implementation, debugging, testing, and code improvement
-* Improve code reusability, readability, and maintainability
-* Collaborate on production application development and deployment workflows
+Working on industrial software, database migration, data validation, and system integration projects involving manufacturing environments.
 
 ---
 
-### 🏭 IT Developer / System Integration | **PT Agatos Multi Solusi**
+### Fullstack Developer — PT Guide Santai Service
 
-**January 2026 - Present**
+`Aug 2025 — Present`
 
-* Work on industrial software and system integration projects
-* Support migration of legacy manufacturing systems into modern platforms
-* Handle database analysis, mapping, transformation, and data migration
-* Work with recipe, production, ingredient, equipment, and process-related data
-* Support integration between application systems, databases, PLCs, and industrial platforms
-* Work with SQL Server and industrial automation environments
-* Perform validation to ensure migrated data matches existing production systems
-* Support testing, troubleshooting, and technical implementation
-
-**Areas involved:**
-
-`DMO` · `PLC Integration` · `HMI` · `SQL Server` · `Data Migration` · `System Integration` · `Industrial Software`
+Developing and maintaining production web applications across frontend, backend, API, and database layers.
 
 ---
 
-### 📱 Software Developer Intern | **PT Petrokimia Gresik**
-
-* Developed application features using **Flutter**
-* Built and consumed **Laravel REST APIs**
-* Worked with **PostgreSQL**
-* Supported application development and system implementation
-
----
-
-### 📊 ERP Developer Intern | **PT Konsultan Indonesia Cemerlang**
-
-* Worked on an ERP-based web application using Laravel
-* Developed business modules including:
-
-  * Sales
-  * Point of Sale
-  * Inventory
-  * CRM
-* Worked with business processes, backend logic, and relational databases
-
----
-
-### 🌐 Web Developer | **Blimbing Digital**
-
-* Developed web applications using **Laravel**
-* Built frontend interfaces using **React.js**
-* Implemented responsive web interfaces and application features
-
----
-
-## 🛠️ Tech Stack & Skills
+## 📈 GitHub Activity
 
 <div align="center">
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
 
-## ⚙️ System Integration & Industrial Experience
-
-Beyond conventional web development, I also have experience working with industrial software environments.
-
-Areas I've worked with include:
-
-* Industrial System Integration
-* DMO / Manufacturing Software
-* PLC Integration
-* Recipe Management
-* Production Data
-* SQL Server
-* Database Migration
-* Data Mapping & Validation
-* HMI-related systems
-* Legacy System Migration
-* Industrial Data Analysis
-
-This experience has given me exposure to systems where **software, databases, manufacturing processes, and automation systems need to work together reliably**.
-
----
-
-## 🌟 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🚢 KapalSantai
-
-**Travel & Booking Platform · Fullstack**
-
-Production web application for managing travel products, bookings, guests, schedules, payments, and operational workflows.
-
-**Responsibilities:**
-
-* Frontend development
-* Backend development
-* REST API
-* Database implementation
-* Form & guest verification workflows
-* Payment/refund features
-* Feature maintenance
-* Bug fixing & refactoring
-
-**Stack**
-
-`React` · `Next.js` · `NestJS` · `TypeScript` · `PostgreSQL` · `Supabase`
-
-</td>
-
-<td width="50%">
-
-### 🏭 Industrial System Migration
-
-**System Integration · Database & Data Migration**
-
-Worked on migration and system integration activities for an industrial manufacturing environment.
-
-**Responsibilities:**
-
-* Legacy database analysis
-* Data mapping
-* Data transformation
-* Migration preparation
-* Recipe & production data validation
-* PLC/application integration analysis
-* Database verification
-
-**Technology / Domain**
-
-`DMO` · `SQL Server` · `PLC` · `HMI` · `Industrial Integration`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 ERP Application
-
-**Enterprise Resource Planning · Fullstack**
-
-ERP application covering several core business processes.
-
-**Modules**
-
-* Sales
-* Point of Sale
-* Inventory
-* CRM
-
-**Stack**
-
-`Laravel` · `PHP` · `MySQL` · `REST API`
-
-</td>
-
-<td width="50%">
-
-### 📱 Enterprise Mobile Application
-
-**Mobile & Backend Development**
-
-Application development involving mobile interfaces and REST API integration.
-
-**Stack**
-
-`Flutter` · `Laravel` · `REST API` · `PostgreSQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Trading Platform
-
-**Personal Research & Development**
-
-Experimental platform exploring the integration of AI-assisted analysis with trading data and market workflows.
-
-**Areas**
-
-`Python` · `Backend API` · `Market Data` · `AI Integration`
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Application Projects
-
-**Fullstack Development**
-
-Various web application projects involving responsive interfaces, backend development, database integration, and business workflows.
-
-**Stack**
-
-`React.js` · `Laravel` · `JavaScript` · `REST API`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🎯 What I'm Currently Focused On
-
-```text
-🔹 Fullstack Web Development
-🔹 Backend Architecture & REST APIs
-🔹 Clean & Reusable Code
-🔹 PostgreSQL / SQL Server
-🔹 System Integration
-🔹 Database & Data Migration
-🔹 Docker & CI/CD
-🔹 Industrial Software Integration
-```
-
----
-
-## 📊 GitHub Statistics
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=FachriPahlevi&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-
-<img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FachriPahlevi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=FachriPahlevi&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FachriPahlevi&theme=github-compact&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 📈 More GitHub Insights
+## 🎯 Currently Improving
 
-<details>
-
-<summary><b>View detailed statistics</b></summary>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FachriPahlevi&theme=github_dark" />
-
-  <br/>
-
-<img width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FachriPahlevi&theme=github_dark" />
-
-<img width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FachriPahlevi&theme=github_dark" />
-
-  <br/>
-
-<img width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FachriPahlevi&theme=github_dark" />
-
-<img width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FachriPahlevi&theme=github_dark&utcOffset=7" />
-
-</div>
-
-</details>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in building **reliable web applications, backend systems, integrations, and data-driven solutions**.
-
-I'm always open to connecting with developers, engineers, and teams working on interesting software projects.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/FachriPahlevi)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
+* Software architecture & clean code
+* Backend system design
+* Database optimization
+* System integration
+* Industrial software understanding
+* English communication for international projects
 
 ---
 
 <div align="center">
 
-### 💻 Build. Integrate. Improve.
+### Build · Integrate · Improve
 
-<sub>Software should not only work — it should be maintainable, reliable, and solve real problems.</sub>
+<sub>Turning requirements, data, and systems into reliable software.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=Profile+Views" />
 
 </div>
