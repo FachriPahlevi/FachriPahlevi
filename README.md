@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Fachri 👋
 
-<!--
-**FachriPahlevi/FachriPahlevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer focused on building web applications, backend services, database systems, and system integrations.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, Next.js, TypeScript
+- Backend: NestJS, Node.js
+- Database: PostgreSQL, SQL Server, Supabase
+- Tools: Git, Docker, Linux
+
+## Currently Working On
+
+- Fullstack web applications
+- System integration
+- Database & data migration
+- Industrial software projects
+
+## Featured Projects
+
+- 🚢 KapalSantai
+- 🏭 DMO / Recipe Management Integration
+- 🤖 AI Trading Platform
+
+## Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
