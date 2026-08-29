@@ -34,8 +34,8 @@ Yang saya cari dalam setiap proyek bukan sekadar "UI-nya jalan", tapi memahami k
 | 🎯 **Peran** | Fullstack Developer |
 | 🧩 **Fokus** | Web Applications · Backend Systems · Data Migration · Industrial Integration |
 | 🧠 **Pendekatan** | Understand the whole flow, not just the interface |
-| 🏢 **Saat ini** | PT Agatos Multi Solusi & PT Guide Santai Service |
-| 📍 **Lokasi** | YOUR_LOCATION |
+| 🏢 **Saat ini** | PT Guide Santai Service |
+| 📍 **Lokasi** | Surabaya |
 | 🗣️ **Bahasa** | Bahasa Indonesia, English |
 
 </div>
