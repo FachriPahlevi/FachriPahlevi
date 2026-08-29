@@ -46,7 +46,7 @@ I like understanding systems **end-to-end** — not only whether the interface w
 | 🏭 **Industrial Exposure** | DMO · Data Migration · Recipe Management · PLC-related Integration         |
 | 🧠 **Approach**            | Understand the whole system, not just the interface                        |
 | 🏢 **Currently**           | PT Agatos Multi Solusi · PT Guide Santai Service                           |
-| 📍 **Location**            | Indonesia                                                                  |
+| 📍 **Location**            | Surabaya, Indonesia                                                                  |
 | 🗣️ **Languages**          | Indonesian · English                                                       |
 
 </div>
